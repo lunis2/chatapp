@@ -2,4 +2,6 @@
 
 E6.9
 
-Ussing crispy-forms and websockets 
+Using crispy-forms and websockets.
+
+Please run export DJANGO_SETTINGS_MODULE=chat_app_django.settings before starting the project
